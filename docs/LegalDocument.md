@@ -1,0 +1,13 @@
+
+# LegalDocument
+
+## Properties
+| Name | Type | Description | Notes |
+| ------------ | ------------- | ------------- | ------------- |
+| **content** | **kotlin.String** | Plain text, &#x60;\\n\\n&#x60; separates paragraphs. |  |
+| **docType** | [**LegalDocType**](LegalDocType.md) |  |  |
+| **lang** | [**LanguageCode**](LanguageCode.md) |  |  |
+| **title** | **kotlin.String** |  |  |
+
+
+
